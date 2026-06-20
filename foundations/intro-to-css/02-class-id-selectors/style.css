@@ -1,1 +1,19 @@
-/* Add CSS Styling */
+p {
+    background-color: #ff8a8a; 
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.cool {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+
+}
+
+#four{
+    background-color: lightgreen;
+    font-weight: bold;
+}
