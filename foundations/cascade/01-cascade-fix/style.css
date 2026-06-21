@@ -11,34 +11,35 @@ body {
 
 
 .para {
-  font-size: 30px;
+  font-size: 22px;
 }
 
 .small-para {
-  font-size: 18px;
-  font-weight: 800; 
+  font-size: 14px;
+  font-weight: 800;
 }
 
-.button.confirm {
-  background: green;
-  color: white;
-  font-weight: bold;
-} 
+
 
 .button {
   background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
   font-size: 20px;
 }
-
-.text.child {
-  color: rgb(0, 0, 0);
-  font-weight: 1000;
-  font-size: 14px;
-}
+.confirm {
+  background: green;
+  color: white;
+  font-weight: bold;
+} 
 
 div.text {
   color: rgb(0, 0, 0);
   font-size: 22px;
   font-weight: 100;
+}
+
+.text.child {
+  color: rgb(0, 0, 0);
+  font-weight: 800;
+  font-size: 14px;
 }
